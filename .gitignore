@@ -1,0 +1,14 @@
+cmake-build-*/
+build/
+/laba2
+/go/dbms
+/go/laba2
+
+*.data
+*.tmp
+
+*.docx
+
+.idea/
+
+.DS_Store
